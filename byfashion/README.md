@@ -1,0 +1,2 @@
+<h1> FITS BY FASHION STYLE</h1>
+<p1>THIS FOLDER CONTAINS ALL THE IMAGES RELATED TO fashion style card view</p1>
